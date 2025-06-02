@@ -21,11 +21,16 @@ A modern, elegant desktop clock application built with WPF that displays accurat
 - .NET 8.0 Runtime
 - Internet connection for weather and time synchronization
 
-## Installation
+## Auto-start Setup
 
-1. Download the latest release from the Releases page
-2. Extract the ZIP file
-3. Run `Desktop_Clock.exe`
+To make the clock appear automatically when you start your computer:
+
+1. Make sure you have .NET 8.0 Runtime installed on your computer
+2. Clone the repository to your computer.
+3. Open `Desktop_Clock.exe` to see the clock appear.
+4. If it's working fine, right-click `Desktop_Clock.exe` and select 'Create shortcut'.
+5. Move the shortcut into the startup folder (`C:\Users\<user name>\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`).
+6. Done! The clock will now appear anytime you start your computer.
 
 ## Configuration
 

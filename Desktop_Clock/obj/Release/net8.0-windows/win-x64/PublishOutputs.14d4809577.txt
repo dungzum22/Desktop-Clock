@@ -1,0 +1,3 @@
+D:\Users\USERHP\source\repos\WPF_Clock\Desktop_Clock\bin\Release\net8.0-windows\win-x64\publish\Desktop_Clock.pdb
+D:\Users\USERHP\source\repos\WPF_Clock\Desktop_Clock\bin\Release\net8.0-windows\win-x64\publish\Desktop_Clock.dll.config
+D:\Users\USERHP\source\repos\WPF_Clock\Desktop_Clock\bin\Release\net8.0-windows\win-x64\publish\Desktop_Clock.exe
